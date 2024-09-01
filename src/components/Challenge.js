@@ -4,7 +4,6 @@ function Challenge({ challenge }) {
       href="#"
       class="list-group-item list-group-item-action "
       aria-current="true"
-      mb-3
     >
       <div class="d-flex w-100 justify-content-between">
         <h5 class="mb-1">{challenge.month}</h5>
